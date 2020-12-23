@@ -1,17 +1,12 @@
 package com.task.test.viewmodels
 
 import android.app.Application
-import android.content.Context
 import android.location.Address
 import android.location.Geocoder
-import android.util.Log
 import androidx.lifecycle.AndroidViewModel
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.MutableLiveData
 import com.google.android.gms.maps.model.LatLng
-import com.task.test.model.direction.Direction
-import com.task.test.networking.Retrofit
-import com.task.test.util.MapUtils
 import kotlinx.coroutines.*
 import java.util.*
 import kotlin.coroutines.CoroutineContext
