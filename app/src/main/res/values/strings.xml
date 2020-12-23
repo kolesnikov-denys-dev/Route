@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Маршрут</string>
+    <string name="splash_activity">Сплеш скрин</string>
+    <string name="build_route">Создание маршрута</string>
+    <string name="select_to">Укажите куда!</string>
+    <string name="select_from">Укажите откуда!</string>
+    <string name="select_from_to">Укажите откуда и куда!</string>
+    <string name="from">Откуда</string>
+    <string name="to">Куда</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="make_your_route">Создай свой маршрут</string>
+    <string name="find_route">Поиск пути</string>
+    <string name="history_locations">История локаций</string>
+    <string name="search">Поиск</string>
+    <string name="enter_location">Введите местоположение</string>
+    <string name="need_permissions">Нужны разрешения для локации</string>
+    <string name="google_maps_key">AIzaSyD_tGQryQSGd5jMGdYUE4v6C6tevf-KLic</string>
+</resources>
