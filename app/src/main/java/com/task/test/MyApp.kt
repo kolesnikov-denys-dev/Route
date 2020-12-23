@@ -4,7 +4,7 @@ import android.app.Application
 import com.task.test.model.dagger.component.AppDataComponent
 import com.task.test.model.dagger.component.DaggerAppDataComponent
 
-class MyApp: Application() {
+class MyApp : Application() {
     companion object {
         lateinit var instance: MyApp
             private set
